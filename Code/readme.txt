@@ -4,4 +4,4 @@
 2. Photos in image folder are screenshots of our test vedio, representing moves of a game
 3. test_video.m 是我们视频流的程序，需要接入webcam才能。所以我们选择提交静态的
    程序，以方便测试。
-3. Test_video.m is an interaction program between phone and computer to transform video, work only when two devices linked in webcam. So the version of program we post is just a program processing seperate images (not video)
+3. Test_video.m is an interaction program between phone and computer to transform video, work only when two devices linked in webcam. If you want to have a simple try, please run test_picture.m.
